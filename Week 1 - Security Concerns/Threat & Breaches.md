@@ -86,9 +86,14 @@ Stealth Viruses - copy themselves into different locations to `avoid antivirus s
 Polymorphic Viruses (97%)
 * Change their characteristics to `get around cybersecurity defences`.
 
+`RootKit`
+* Program that provides attacker with `elevated access to a computer`
+* Program has control over computer w/o user or target system's knowledge
 
 `Worms`
 * Viruses that start themselves after `idenfitying system weaknesses`
+* Can replicate itself from one device to another across a network w/o human interaction
+* Can be used to `delete files, steal info, create backdoor, distribute other malware`
 * They don't rely on app or files 
 * Can be controlled remotely
 
@@ -100,12 +105,14 @@ Polymorphic Viruses (97%)
 * Collects personal data, login information, credit card information, online activity 
 
 `Adware`
-- software coded into online ads that records your personal data, website visits, and keystrokes to send you personalized ads.
+- Software coded into online ads that records your personal data, website visits, and keystrokes to send you personalized ads.
+- Can sometimes lead to `inadvertent downloads` of other malware and also slows down pc
+
 
 > Adware & Spyware can be `legitimate or malicious`
 
 `Ransomware`
 - Locks a system, encrypts its files, and displays a ransom demand
-- To get encryption key, must pay the ransom
+- To get decryption key, must pay the ransom to be able to gain access to files
 - Or you can regain access by doing a full system restore from a backup.
  - `Phishing, Remote Desktop Protocol`
