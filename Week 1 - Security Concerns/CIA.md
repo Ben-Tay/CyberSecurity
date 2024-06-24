@@ -11,6 +11,7 @@ Learning Objectives
 ## Confidentiality, Integrity and Availability (CIA Triad)
 #### Confidentiality
 * Data is `protected from unauthorized access`
+* Control `unauthorized data sharing` to ensure privacy
 * If confidential data is exposed to the wrong audience could lead to risks such as:
     * `Identity Theft/Compromised accounts`
     * `Legal Concerns/Damage to Reputation`

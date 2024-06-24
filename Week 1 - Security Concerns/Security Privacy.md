@@ -45,3 +45,25 @@ Pr
 * Raw data points are analyzed to `find correlations or links`
 * AI & ML alogorithms automate part of the analysis
 * `Meaningful reporting` - presentation of analyzed information in ways that help people to further analyze and interpret
+> Data driven decisions are based on capturing data, correlating it and then using it to `create meaningful reports`
+
+## Confidential Information
+> Companies rank CI based on how sensitive the information is
+
+There are 4 types of CI to be universally protected:
+1. `Personally Identifiable Info` - Govt ID/birthdates etc
+2. `Company Confidential Info` - information about companies's business processes & details they want to keep private. 
+    * IP, DESIGNS, PROCEDURES, plans, records, financial data
+3. `Customer Confidential Info` - info customers prpvide to companies, including PII, credit card info
+4. `Protected Health Info` - any information added to person's medical record during diagnosis that can be used to identify them - PII/medical history, prescription lists etc
+
+> PROPER confidentiality means:
+* Restriciting access
+* Not allowing unauthorized access/copies
+* Storing information securely (encryption, firewalls, permissions etc)
+* Destroying unneeded files
+
+> Understand the difference: 
+* `PII` != `PCI` (PERSONAL CUSTOMER INFO) 
+* information that describes a customer
+* `SPI` (Sensitive personal information) is information that does not identify but can cause harm if `made public`
