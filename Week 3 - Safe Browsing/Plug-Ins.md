@@ -74,6 +74,7 @@ them.
 ## Security Certificates
 > Security certificates, or secure sockets layer (SSL) certificates, authenticate a website’s
 identity and enable an encrypted connection between a web server and a browser.
+* SSL encrypts data through a secure end-to-end connection. Even if a hacker sniffs the packets on the network, the data is scrambled and not human-readable.
 
 > SSL certificates come from organizations called root certificate stores or Certificates of
 Authority, commonly called a CA.
